@@ -60,7 +60,7 @@ public class Index {
 		
 		// for each term in the TermCounter, add the TermCounter to the index
         	for (String term: tc.keySet()) {
-			add(term, tc);
+	//		add(term, tc);
 		}
 	}
 
